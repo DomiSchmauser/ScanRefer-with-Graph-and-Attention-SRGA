@@ -1,6 +1,9 @@
 # ScanRefer with Graph and Attention (SRGA)
 
-<p align="center"><img src="demo/vis.png" width="600px"/></p>
+<p align="center"><img src="demo/vis.png" width="800px"/></p>
+The blue bounding boxes represent ground truth, the
+red bounding boxes are the ScanRefer predictions and the green bounding boxes show our results. The strength of the red
+background coloring represents the size of the attention weights.
 
 ## Introduction
 
@@ -30,7 +33,7 @@ python scripts/visualize_attention.py --folder <foldername> --use_multiview --us
 
 ## Benchmark results 
 
-<p align="center"><img src="demo/Benchmark.jpeg" width="600px"/></p>
+<p align="center"><img src="demo/results.jpg" width="800px"/></p>
 
 
 ## Acknowledgement
