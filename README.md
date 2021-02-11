@@ -33,9 +33,9 @@ python scripts/visualize_attention.py --folder <foldername> --use_multiview --us
 
 ## Benchmark results 
 
-```
+
 <img src=”benchmark.PNG” width=”700">
-```
+
 
 
 
