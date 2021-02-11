@@ -33,7 +33,8 @@ python scripts/visualize_attention.py --folder <foldername> --use_multiview --us
 
 ## Benchmark results 
 
-<p align="center"><img src="demo/benchmark.png" width="600px"/></p>
+![](demo/benchmark.png)
+
 
 
 ## Acknowledgement
